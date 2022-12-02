@@ -1,2 +1,2 @@
 #!/bin/bash
-chomd -X 755 ./
+chomd -R a+X ./
