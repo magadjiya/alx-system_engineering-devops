@@ -20,24 +20,24 @@
 
 ### Completed tasks
 
-- [ ] task 0
-- [ ] task 1
-- [ ] task 2
-- [ ] task 3
-- [ ] task 4
-- [ ] task 5
-- [ ] task 6
-- [ ] task 7
-- [ ] task 8
-- [ ] task 9
-- [ ] task 10
-- [ ] task 11
-- [ ] task 12
-- [ ] task 13
-- [ ] task 14
-- [ ] task 15
-- [ ] task 16
-- [ ] task 17
+- [x] task 0
+- [x] task 1
+- [x] task 2
+- [x] task 3
+- [x] task 4
+- [x] task 5
+- [x] task 6
+- [x] task 7
+- [x] task 8
+- [x] task 9
+- [x] task 10
+- [x] task 11
+- [x] task 12
+- [x] task 13
+- [x] task 14
+- [x] task 15
+- [x] task 16
+- [x] task 17
 
 ### Links to task files
 
@@ -96,66 +96,79 @@ A script that prints the effective username of the current user.
 A script that prints all the groups the current user is part of.
 
 ### Task 3
-
+Script that changes the owner of the file hello to the user betty.
 
 ### Task 4
-
+Script that creates an empty file called hello.
 
 ### Task 5
-
+Script that adds execute permission to the owner of the file hello.
+The file hello will be in the working directory
 
 ### Task 6
-
+A script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
+The file hello will be in the working directory
 
 ### Task 7
-
+Script that adds execution permission to the owner, the group owner and the other users, to the file hello
+The file hello will be in the working directory
+You are not allowed to use commas for this script
 
 ### Task 8
-
+A script that sets the permission to the file hello as follows:
+Owner: no permission at all.
+Group: no permission at all.
+Other users: all the permissions.
+The file hello will be in the working directory. You are not allowed to use commas for this script
 
 ### Task 9
-
+Script that sets the mode of the file hello to this:
+[-rwxr-x-wx].
+The file hello will be in the working directory.
+You are not allowed to use commas for this script.
 
 ### Task 10
-
+Script that sets the mode of the file hello the same as olleh’s mode.
 
 ### Task 11
-
+Script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+Regular files should not be changed.
 
 ### Task 12
-
+A script that creates a directory called my\_dir with permissions 751 in the working directory.
 
 ### Task 13
-
+Script that changes the group owner to school for the file hello
 
 
 ## Advanced tasks
 
 ### Task 14
-
+Script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 
 ### Task 15
-
+script that changes the owner and the group owner of \_hello to vincent and staff respectively. \_hello is a symbolic link.
 
 ### Task 16
-
+A script that changes the owner of the file hello to betty only if it is owned by the user guillaume.
 
 ### Task 17
-
+Play StarWars IV episode in the terminal
 
 
 ## My process
 
 ### Built with
+Shell
 
 
 ### What I learned
-
+- mkdir has the -m option which allows you to create a directory while simultaneously setting its permissions
 
 ## Author
 
 - ALX - [ALX Africa](https://www.alxafrica.com)
-- Twitter - [@k_danhassan](https://twitter.com/k_danhassan)
+- Twitter - [@k\_danhassan](https://twitter.com/k_danhassan)
 
 ## Acknowledgements
 
