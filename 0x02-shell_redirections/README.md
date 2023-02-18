@@ -1,6 +1,6 @@
 # 0x02. Shell, I/O Redirections and filters
 
-Write what this project is all about. It can be a brief summary of what you are learning and what you will do
+This project touches aspects of shell redirection, and how to manipulate certain commands.
 
 ## Table of contents
 
@@ -34,33 +34,33 @@ Write what this project is all about. It can be a brief summary of what you are 
 
 ### Completed tasks
 
-- [ ] task 0
-- [ ] task 1
-- [ ] task 2
-- [ ] task 3
-- [ ] task 4
-- [ ] task 5
-- [ ] task 6
-- [ ] task 7
-- [ ] task 8
-- [ ] task 9
-- [ ] task 10
-- [ ] task 11
-- [ ] task 12
-- [ ] task 13
-- [ ] task 14
-- [ ] task 14
-- [ ] task 16
-- [ ] task 17
-- [ ] task 18
-- [ ] task 19
-- [ ] task 20
-- [ ] task 21
-- [ ] task 22
-- [ ] task 23
-- [ ] task 24
-- [ ] task 25
-- [ ] task 26
+- [x] task 0
+- [x] task 1
+- [x] task 2
+- [x] task 3
+- [x] task 4
+- [x] task 5
+- [x] task 6
+- [x] task 7
+- [x] task 8
+- [x] task 9
+- [x] task 10
+- [x] task 11
+- [x] task 12
+- [x] task 13
+- [x] task 14
+- [x] task 14
+- [x] task 16
+- [x] task 17
+- [x] task 18
+- [x] task 19
+- [x] task 20
+- [x] task 21
+- [0] task 22
+- [0] task 23
+- [0] task 24
+- [0] task 25
+- [0] task 26
 
 
 ### Links to task files
