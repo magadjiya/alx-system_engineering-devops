@@ -56,11 +56,11 @@ This project touches aspects of shell redirection, and how to manipulate certain
 - [x] task 19
 - [x] task 20
 - [x] task 21
-- [0] task 22
-- [0] task 23
-- [0] task 24
-- [0] task 25
-- [0] task 26
+- [x] task 22
+- [x] task 23
+- [x] task 24
+- [x] task 25
+- [x] task 26
 
 
 ### Links to task files
@@ -96,33 +96,33 @@ This project touches aspects of shell redirection, and how to manipulate certain
   - [Task 25][Task 25]
   - [Task 26][Task 26]
 
-[Task 0]: ./
-[Task 1]: ./
-[Task 2]: ./
-[Task 3]: ./
-[Task 4]: ./
-[Task 5]: ./
-[Task 6]: ./
-[Task 7]: ./
-[Task 8]: ./
-[Task 9]: ./
-[Task 10]: ./
-[Task 11]: ./
-[Task 12]: ./
-[Task 13]: ./
-[Task 14]: ./
-[Task 15]: ./
-[Task 16]: ./
-[Task 17]: ./
-[Task 18]: ./
-[Task 19]: ./
-[Task 20]: ./
-[Task 21]: ./
-[Task 22]: ./
-[Task 23]: ./
-[Task 24]: ./
-[Task 25]: ./
-[Task 26]: ./
+[Task 0]: ./0-hello_world
+[Task 1]: ./1-confused_smiley
+[Task 2]: ./2-hellofile
+[Task 3]: ./3-twofiles
+[Task 4]: ./4-lastlines
+[Task 5]: ./5-firstlines
+[Task 6]: ./6-third_line
+[Task 7]: ./7-file
+[Task 8]: ./8-cwd_state
+[Task 9]: ./9-duplicate_last_line
+[Task 10]: ./10-no_more_js
+[Task 11]: ./11-directories
+[Task 12]: ./12-newest_files
+[Task 13]: ./13-unique
+[Task 14]: ./14-findthatword
+[Task 15]: ./15-countthatword
+[Task 16]: ./16-whatsnext
+[Task 17]: ./17-hidethisword
+[Task 18]: ./18-letteronly
+[Task 19]: ./19-AZ
+[Task 20]: ./20-hiago
+[Task 21]: ./21-reverse
+[Task 22]: ./22-users_and_homes
+[Task 23]: ./100-empty_casks
+[Task 24]: ./101-gifs
+[Task 25]: ./102-acrostic
+[Task 26]: ./103-the_biggest_fan
 
 
 ## Mandatory tasks
