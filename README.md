@@ -1,6 +1,6 @@
 # ALX SYSTEM ENGINEERING DEVOOPS
 
-In this project we get familiar with C. A rather archaic and old-fashioned compiled programming language brought to us by Dennis M. Ritchie at Bell Labs.
+In this project we get familiar with the Shell, we write various bash scripts that teach us how to navigate the Shell more effectively.
 
 ## Table of contents
 
